@@ -1,1 +1,2 @@
-b is edited from branch-1
+b is edited from branch-2
+
